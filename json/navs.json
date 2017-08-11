@@ -1,0 +1,104 @@
+[
+  {
+    "title": "管理首页",
+    "icon": "icon-computer",
+    "href": "page/main.html",
+    "spread": false
+  },
+  {
+    "title": "终端",
+    "icon": "&#xe63b;",
+    "href": "",
+    "spread": false,
+    "children": [
+      {
+        "title": "终端",
+        "icon": "&#xe63b;",
+        "href": "page/terminal/terminal.html",
+        "spread": false
+      },
+      {
+        "title": "终端群组",
+        "icon": "icon-screengroup",
+        "href": "page/terminal_group/terminal_group.html",
+        "spread": false
+      },
+      {
+        "title": "操作记录",
+        "icon": "icon-jilu",
+        "href": "page/terminal_record/terminal_record.html",
+        "spread": false
+      }
+    ]
+  },
+  {
+    "title": "监控",
+    "icon": "icon-monitor",
+    "href": "page/monitor/monitor.html",
+    "spread": false
+  },
+  {
+    "title": "节目管理",
+    "icon": "&#xe6ed;",
+    "href": "page/program/program.html",
+    "spread": false
+  },
+  {
+    "title": "播放日程",
+    "icon": "&#xe637;",
+    "href": "page/play_schedule/play_schedule.html",
+    "spread": false
+  },
+  {
+    "title": "素材库",
+    "icon": "&#xe64a;",
+    "href": "",
+    "spread": false,
+    "children": [
+      {
+        "title": "素材",
+        "icon": "&#xe64a;",
+        "href": "page/material/material.html",
+        "spread": false
+      },
+      {
+        "title": "模板比例",
+        "icon": "&#xe630;",
+        "href": "page/template/template.html",
+        "spread": false
+      }
+    ]
+  },
+  {
+    "title": "用户",
+    "icon": "&#xe612;",
+    "href": "",
+    "spread": false,
+    "children": [
+      {
+        "title": "用户管理",
+        "icon": "&#xe612;",
+        "href": "page/user/user.html",
+        "spread": false
+      },
+      {
+        "title": "权限管理",
+        "icon": "icon-permissions",
+        "href": "page/user/permissions.html",
+        "spread": false
+      }
+    ]
+  },
+  {
+    "title": "设置",
+    "icon": "&#xe614;",
+    "href": "page/setup/setup.html",
+    "spread": false
+  },
+  {
+    "title": "帮助",
+    "icon": "&#xe607;",
+    "href": "page/help/help.html",
+    "spread": false
+  }
+]
