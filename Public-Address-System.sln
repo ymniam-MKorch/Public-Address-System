@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Public-Address-System", "."
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "62829"
+		SlnRelativePath = "..\Public-Address-System\"
 	EndProjectSection
 EndProject
 Global
