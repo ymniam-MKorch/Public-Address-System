@@ -32,42 +32,22 @@
     ]
   },
   {
-    "title": "监控",
-    "icon": "icon-monitor",
+    "title": "监听",
+    "icon": "icon-listen",
     "href": "page/monitor/monitor.html",
     "spread": false
   },
   {
-    "title": "节目管理",
-    "icon": "&#xe6ed;",
-    "href": "page/program/program.html",
-    "spread": false
-  },
-  {
-    "title": "播放日程",
+    "title": "广播日程",
     "icon": "&#xe637;",
     "href": "page/play_schedule/play_schedule.html",
     "spread": false
   },
   {
-    "title": "素材库",
-    "icon": "&#xe64a;",
-    "href": "",
-    "spread": false,
-    "children": [
-      {
-        "title": "素材",
-        "icon": "&#xe64a;",
-        "href": "page/material/material.html",
-        "spread": false
-      },
-      {
-        "title": "模板比例",
-        "icon": "&#xe630;",
-        "href": "page/template/template.html",
-        "spread": false
-      }
-    ]
+    "title": "录音管理",
+    "icon": "icon-voice",
+    "href": "page/material/material.html",
+    "spread": false
   },
   {
     "title": "用户",
